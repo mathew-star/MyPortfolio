@@ -24,7 +24,7 @@ const HomePage = () => {
               </span>
     </h1>
           <div className="flex flex-col xl:flex-row items-center gap-8 mt-6">
-          <a href="/Mathew_Joseph_Resume (1).pdf" download className="no-underline">
+          <a href="/Mathew_Joseph_resume.pdf" download className="no-underline">
                 <Button variant="outline" size="lg" className="uppercase flex items-center">
                   <span>Resume</span>
                   <FiDownload className="ml-2" />

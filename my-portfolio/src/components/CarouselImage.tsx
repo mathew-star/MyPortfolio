@@ -1,4 +1,5 @@
 import * as React from "react";
+import Image from 'next/image';
 import { Card, CardContent } from "@/components/ui/card";
 import {
   Carousel,
@@ -45,7 +46,7 @@ export const CarouselImage: React.FC<CarouselImageProps> = ({ images }) => {
                       className="w-full h-full flex items-center justify-center"
                       style={{ cursor: "pointer" }}
                     >
-                      <img
+                      <Image
                         src={image}
                         alt={`Project Image ${index + 1}`}
                         className="w-full h-auto rounded-lg object-cover"

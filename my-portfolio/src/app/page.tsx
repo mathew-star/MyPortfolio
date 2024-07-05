@@ -14,7 +14,7 @@ const HomePage = () => {
 
           <div className="flex flex-col xl:flex-row justify-between items-center xl:pt-8 xl:pb-24">
             <div className="text-center xl:text-left order-2 xl:order-none">
-              <h1 className="h1"> Hello I'm <br /> <span>
+              <h1 className="h1"> Hello I am <br /> <span>
               <TypingAnimation
       className="text-4xl xl:text-left xl:text-6xl font-bold text-accent dark:text-white"
       texts={["Mathew Joseph", "Software Developer"]}

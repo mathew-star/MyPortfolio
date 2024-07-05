@@ -34,23 +34,24 @@ const slugs = [
 
 const About = () => {
   return (
-    <div className='mx-auto px-8'>
-      <div className='flex flex-col xl:flex-row justify-between  items-center xl:pt-12 xl:pb-24 space-y-8 xl:space-y-0 xl:space-x-8'>
+    <div className="mx-auto px-8">
+      <div className="flex flex-col xl:flex-row justify-between  items-center xl:pt-12 xl:pb-24 space-y-8 xl:space-y-0 xl:space-x-8">
         <div className="text-center xl:text-left ">
-          <p className='text-4xl'>About me .</p>
+          <p className="text-4xl">About me .</p>
           
           <p className="text-xl mt-5 leading-relaxed  text-white dark:text-gray-300">
             
-          Hello! I am Mathew, a dedicated tech enthusiast with a Bachelor's degree in Mechanical Engineering. Driven by an insatiable curiosity and a deep passion for the IT field.
+          Hello! I am Mathew, a dedicated tech enthusiast with a Bachelors degree in Mechanical Engineering. Driven by an insatiable curiosity and a deep passion for the IT field.
            <br />I am a passionate and dedicated Software Developer 
             with extensive experience in building <br /> high-quality web applications. 
              I am continuously learning and exploring new technologies <br /> to stay updated with industry trends. 
-             Let's build something amazing together!
+             Let us build something amazing together!
           </p>
 
           <blockquote className="text-lg mt-5 italic text-accent dark:text-gray-400 mb-4">
             "The only way to do great work is to love what you do." - Steve Jobs
           </blockquote>
+
 
           <div className="mb-8 text-center xl:mb-0  ">
               <Social containerStyles="flex gap-6" iconStyles="w-12 h-12 border border-accent rounded-full flex justify-center items-center text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-500"/>

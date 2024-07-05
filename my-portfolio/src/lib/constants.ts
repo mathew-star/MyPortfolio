@@ -27,7 +27,7 @@ export const projects = [
       index:"02",
       id:"AthletHaven",
       title: "AthletHaven",
-      description: "A full-featured e-commerce platform built with Django and React.",
+      description: "A full-featured e-commerce platform built with Django",
       detailedDescription:"This is a full stack E-commerce project , which is build using Django.I developed a comprehensive e-commerce website using Django, implementing essential functionalities of an online shopping platform. This project seamlessly integrates user registration with email verification, secure payment processing through Razorpay in test mode, and password reset capabilities using JWT tokens.Deployed the application on a AWS for accessibility and scalability.",
       images: [
         '/img/ECOM/ecom1.png',

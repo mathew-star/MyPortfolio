@@ -49,7 +49,7 @@ const About = () => {
           </p>
 
           <blockquote className="text-lg mt-5 italic text-accent dark:text-gray-400 mb-4">
-            "The only way to do great work is to love what you do." - Steve Jobs
+            The only way to do great work is to love what you do. - Steve Jobs
           </blockquote>
 
 

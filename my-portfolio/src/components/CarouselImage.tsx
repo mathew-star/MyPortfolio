@@ -49,6 +49,8 @@ export const CarouselImage: React.FC<CarouselImageProps> = ({ images }) => {
                       <Image
                         src={image}
                         alt={`Project Image ${index + 1}`}
+                        width={500}
+                        height={500}
                         className="w-full h-auto rounded-lg object-cover"
                       />
                     </button>

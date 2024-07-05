@@ -6,7 +6,7 @@ export const projects = [
       id:"SmartClass",
       title: "Smart Class",
       description: "An online classroom app inspired by Google Classroom, built with Django and React.",
-      detailedDescription:"I developed a full-stack classroom management platform inspired by Google Classroom. It aims to facilitate seamless communication and management of educational activities between teachers and students. The purpose of this project is never-ending, as you can extend and customize the application to suit various educational needs.Utilized WebSockets and Django Channels for live chat functionalities.mplemented Celery and Redis for asynchronous task management and real-time notifications.",
+      detailedDescription:"I developed a full-stack classroom management platform inspired by Google Classroom. It aims to facilitate seamless communication and management of educational activities between teachers and students. The purpose of this project is never-ending, as you can extend and customize the application to suit various educational needs.Utilized WebSockets and Django Channels for live chat functionalities.Implemented Celery and Redis for asynchronous task management and real-time notifications.",
       images: [
         '/img/SmartClass/N/smart1.png',
         '/img/SmartClass/N/smart2.png',
